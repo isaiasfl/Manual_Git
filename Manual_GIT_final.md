@@ -1,5 +1,9 @@
 # Manual de Git y Github. Comandos básicos
 
+<div style="text-align: center;">
+  <img src="IMG/git.png" alt="git_and_github" style="width: 50%;"/>
+</div>
+
 - [Manual de Git y Github. Comandos básicos](#manual-de-git-y-github-comandos-básicos)
 - [Un poco de Historia](#un-poco-de-historia)
 - [Instalación de Git 🪛](#instalación-de-git-)
@@ -266,6 +270,10 @@ git add <archivo>
   ```
 
   Recuerda que quitar un archivo del área de preparación no descarta los cambios que hayas hecho en el archivo, simplemente los mueve de vuelta al directorio de trabajo. Si quieres descartar los cambios por completo, puedes usar el comando `git checkout` que veremos más adelante
+
+<div style="text-align: center;">
+  <img src="IMG/GEYQHS8aYAAI2Dk.jpg" alt="control de versiones" style="width: 80%;"/>
+</div>
 
 # Crear un commit con los cambios del repositorio 📌
 
