@@ -1,10 +1,10 @@
-# Manual de Git y Github. Comandos básicos
+# Manual de Git y GitHub. Comandos básicos
 
 <div style="text-align: center;">
   <img src="IMG/git.png" alt="git_and_github" style="width: 50%;"/>
 </div>
 
-- [Manual de Git y Github. Comandos básicos](#manual-de-git-y-github-comandos-básicos)
+- [Manual de Git y GitHub. Comandos básicos](#manual-de-git-y-github-comandos-básicos)
 - [Un poco de Historia](#un-poco-de-historia)
 - [Instalación de Git 🪛](#instalación-de-git-)
   - [En Linux](#en-linux)
