@@ -1,7 +1,7 @@
 # Gestión de Repositorios con Git
 
 <div style="text-align: center;">
-  <img src="IMG/git_github.png" alt="git_and_github" style="width: 60%;"/>
+  <img src="IMG/git.png" alt="git_and_github" style="width: 60%;"/>
 </div>
 
 Este proyecto tiene como objetivo cubrir alguna de las unidades del módulo **Digitalización Aplicada a los Sectores Productivos GS**, enseñando los conceptos clave en la gestión de repositorios utilizando Git, desde la configuración inicial hasta la realización de commits. Se abordarán las diferentes etapas del flujo de trabajo en Git, incluyendo el área de preparación (staging area) y cómo llevar a cabo un commit adecuado. Utilizaremos la nube para almacenar nuestros repositorios usando GitHub.
